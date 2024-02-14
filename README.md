@@ -1,6 +1,6 @@
 Introducing "FoodFinder" - Your Ultimate Food Delivery Companion!
 
-
+![FoodFinder Logo](assets/photo1707851902.jpeg)
 🍔🌮🚀
 
 DeliverEase is a cutting-edge food delivery app crafted with precision using React Native Expo and powered by the robust Supabase database, providing you with a seamless and delightful culinary experience. Whether you're craving comfort food or exploring exotic cuisines, DeliverEase ensures that your favorite dishes are just a tap away.
